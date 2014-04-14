@@ -1,0 +1,87 @@
+-------------------------------------------------------------------------------
+Specify IOS Distribution Use Cases
+-------------------------------------------------------------------------------
+
+General iOS distribution discussion
+
+http://mobiledan.net/2012/03/02/5-options-for-distributing-ios-apps-to-a-limited-audience-legally/
+_______________________________________________________________________________
+
+B2B Apps Program, Apple App Store
+
+* 99$ per year for the developer license
+
+* Develop custom iOS apps for business
+* Business store with Companys logo and branding
+* security features for sensitive or private company data
+* Apps can only be sold privately to authorized purchasers identified through iTunes Connect
+* The customers (downloading the App) need to enroll for the Volume Purchase Program
+
+* VPP
+** download B2B apps through the VPP Store
+** apps are reviewed by Apple before they are available to ones VPP account (Approval)
+** approval process takes a few days (or even more)
+** manage apps by using a "mobile device management" (MDM) solution or a Profile Manager
+** full ownership of apps
+** Use MDM solution to assign apps to users
+** Limited to several countries (2013): Australia, Canada, France, Germany, Italy, Japan, New Zealand, Spain, United Kingdom, and United States
+
+https://developer.apple.com/programs/volume/b2b/
+https://ssl.apple.com/support/itunes/vpp/
+
+
+Volume Purchase Program
+The Volume Purchase Program lets you get custom B2B apps for iOS through the VPP store. By collaborating with a third-party developer, you can get unique iOS apps tailored to your business needs, then distribute them at scale to your organization alongside off-the-shelf App Store apps further extending the use of iPhone and iPad.
+Whether you outsource development to an independent contractor or a commercial developer, distributing custom B2B apps through the VPP store is the simplest distribution method for both you and your developer.
+Custom B2B apps built for you by a third-party developer are made available to only you. No other VPP participant can see or get your custom apps, making the transaction both secure and private. And since custom B2B apps are reviewed by Apple before they are available to your VPP account, you can be assured that they’ve been technically verified and checked for a quality user experience.
+Pricing for custom B2B apps is set by the developer and can be either free or paid.
+
+Custom B2B Apps for iOS
+Expand the capabilities of iPhone and iPad for your business with custom apps. Work with third-party developers to design and build a custom app that meets your specific business needs. Custom B2B apps for iOS are distributed privately and securely through the VPP store, and can be free or paid. Developers can submit custom B2B apps to the VPP store through the standard iOS Developer Program (App Store). Once approved, they are available to your VPP account so that only you can access them.
+Learn more in the “Custom B2B” section of this guide.
+
+Managed Distribution
+Managing apps and books in VPP lets you provide the right content to the right users at the right time. Whether you’re using a third-party mobile device management (MDM) solution or Profile Manager in OSX Server, your organization has an efficient and powerful way to manage apps and books purchased from the VPP store. Control the entire distribution process from start to finish, while retaining full ownership of apps. Use your MDM solution to assign apps and books to users. When apps are
+no longer needed by a user, they can be revoked and reassigned to a different user within your organization. And all content is automatically available for download on all the user’s devices. Once distributed, books remain the property of the recipient and are not revocable or reassignable. 
+
+_______________________________________________________________________________
+
+iOS Developer Enterprise Program
+
+* 299$ per year for an Enterprise developer account
+
+* distribute inhouse iOS apps
+* an iOS devices can have apps installed from only one iOS Enterprise License at a time
+* no App Store approval required
+* general public can not see or install the app
+_______________________________________________________________________________
+
+-----------------------
+BMC Enterprise AppZone
+-----------------------
+* 4$/month - 2.50$/month for 50-500 users. If the company has more than 500 users (i.e. employees) it has to be asked for the price
+
+* private corporate App Store
+* supports publication of documents
+* different levels of access to a variety of apps (access and group management)
+* supports Apple Volument Purchase Program (VPP)
+* build in app-scanning to protects from malware and viruses
+* define required and recommended apps (easy to identify for users)
+* distribution of mobile, web, and desktop applications to end users
+* Supported apps: Mobile, web, HTML5 and desktop apps 
+* Supported platforms: Android + iOS devices, Mac + Windows desktops
+
+http://www.enterpriseappzone.com/
+http://www.enterpriseappzone.com/faqs/
+http://www.enterpriseappzone.com/pricing/
+
+-----------------------
+BMC Marketplace
+-----------------------
+* price??
+
+* cloud-based app store for companies who want their own private label marketplace 
+* It provides a hassle-free, custom-branded online marketplace to give customers easy access to products, and your partners a go-to-market channel for driving sales
+
+
+http://www.bmc.com/it-solutions/products/marketplace.html

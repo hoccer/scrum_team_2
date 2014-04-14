@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Specify Server Distribution Use Cases
+-------------------------------------------------------------------------------
+
+Server Deployment Location
+
+Possiblities:
+1. In-house hosting of a physical server located within the Hoccer company IT infrastructure. 
+2. Third-party cloud hosting of a virtual server e.g. using AmazonAWS etc.
+3. Company cloud hosting of a virtual server.
+4. Hosting of a physical server located within the companies IT infrastructure.
+
+Server Maintenance
+
+Possiblities:
+1. Maintenance and management performed by Hoccer system administrators.
+2. Maintenance and management performed by companies own system administrators.
+3. Maintenance and management performed by third party system administrators.
+
+Server Deployment
+
+The server can currently be deployed into a preconfigured vagrant box located in the "vagrant-appliance" repository (link below). The Ubuntu Precise 64 bit system is provisioned using puppet. The resulting box fulfills the requirements to deploy and run the server.
+
+Links
+
+https://github.com/hoccer/vagrant-appliance 

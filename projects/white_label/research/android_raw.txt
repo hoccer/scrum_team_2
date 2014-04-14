@@ -1,0 +1,113 @@
+-------------------------------------------------------------------------------
+Specify Android Distribution Use Cases
+-------------------------------------------------------------------------------
+
+List of third-party software distribution platforms
+
+http://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms#Third-party_platforms
+_______________________________________________________________________________
+
+Appland
+
+* Cloud-based platform
+* no sign-in, just click and buy
+* multi-store functionalities for different user groups / employee groups
+
+* Developers cut per sale: 70%
+* Platform: Android, Blackberry, OS, iOS, Java, Symbian, Windows Mobile
+
+http://www.applandinc.com
+_______________________________________________________________________________
+
+Android Application Online
+
+* Developers cut per sale: 85%
+* Platform: Android
+
+https://www.andapponline.com
+_______________________________________________________________________________
+
+Aptoid
+
+* Aptoide server and client code is open source [http://aptoide.org/]
+* Customizable App Store Client to access the store
+* Receive APK from official site or other sources in the Internet (not available through Google Play Store due to the "Non-compete clause")
+* Client to upload apps in ones own Aptiode repository
+* Client to backup apps in ones own Aptoide repository
+
+* Aptoid uses the available Aptoide Webservice to upload applications [http://www.aptoide.com/webservices/intro]
+* Repository is a directory within a server
+* repository can be made private
+
+* The server seems to stay on Aptoid side (cloud)
+* allows different versions of a package
+
+(Based on contract Aptoid wants to get its share from advertisement and payed apps and e.g. additional 250€ per month.)
+
+* Developers cut per sale: bis 87.5%
+* Platform: Android
+
+
+* Fork: F-Droid
+
+https://www.aptoide.com/
+https://www.aptoide.com/page/partners
+
+_______________________________________________________________________________
+
+Cellmania
+
+* customize desktop and mobile look&feel
+* customize directories by sorting the applications
+* Automatically provides compatibility mapping indicators to new phones
+
+* Developers cut per sale: varies according to operator deployment
+* Platform: Android, BlackBerry OS, Flash Lite, iOS, Java, Symbian, Windows Mobile
+
+_______________________________________________________________________________
+
+FDroid
+
+* F-Droid is an installable catalogue of FOSS (Free, Open Source Software) applications
+* The client makes it easy to browse, install, and keep track of updates on your device.
+
+* no tracking of the custormer or the device
+* The F-Droid server tools provide various scripts and tools that are used to maintain the main F-Droid application repository. You can use these same tools to create your own additional or alternative repository for publishing, or to assist in creating, testing and submitting metadata to the main repository.
+
+
+* Developers cut per sale: N/A
+* Platform: Android
+
+https://f-droid.org/
+https://gitlab.com/u/fdroid
+https://f-droid.org/manual/fdroid.html
+https://f-droid.org/repository/browse/
+_______________________________________________________________________________
+
+GetJar
+
+* Used by "Cut the Rope"
+
+* Developers cut per sale: N/A
+* Platform: Android, BlackBerry OS; FlashLite, iOS, Java, Palm OS, Symbian, Windows Mobile
+_______________________________________________________________________________
+
+Google Play Private Channel
+
+* To be payed once: 25$ publisher registration fee
+
+* Zugriff auf den privaten Kanal muss vom Google Apps-Administrator aktiviert werden
+* private Kanal wird nur auf Android Geräten (nicht im Webinterface) angezeigt
+* Titel und Name des Kanals von der Organisation festgelegt
+* ein Kanal pro Unternehmen
+* app kann nur im private channel oder im public Play Store veröffentlicht werden
+* The Google Apps domain administrators can allow domain users to register with the Android Developer Console to publish Android applications to the Private Channel
+* application-publishing features such as user authentication, virus and malware detection (always important), device targeting, and user feedback
+
+Platform: Android
+
+Example: http://cdn.dice.com/wp-content/uploads/2012/12/Screen-Shot-2012-12-05-at-4.23.42-PM.png
+_______________________________________________________________________________
+
+BMC Enterprise AppZone
+(see iOS)
