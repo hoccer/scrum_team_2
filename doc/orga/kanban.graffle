@@ -7,7 +7,7 @@
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGrafflePro</string>
-		<string>139.17.0.185490</string>
+		<string>139.18.0.187838</string>
 	</array>
 	<key>AutoAdjust</key>
 	<true/>
@@ -1381,7 +1381,7 @@ First\
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-04-09 09:11:34 +0000</string>
+	<string>2014-05-26 16:03:54 +0000</string>
 	<key>Modifier</key>
 	<string>Fabian Bützow</string>
 	<key>NotesVisible</key>
