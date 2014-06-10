@@ -1,0 +1,51 @@
+Android Test
+
+Anmerkungen
+
+Beachten Sie bei allen nachfolgenden Aufgaben die Navigationsführung, auch beim Nutzen des Back Buttons, um anschließend eine Bewertung abgeben zu können.
+
+Falls das Overflow Icon nicht vorhanden sein sollte, können die jeweiligen Funktionalitäten über die Einstellungen erreicht werden.
+
+Explorative Aufgaben
+
+1.	Erstellen Sie einen Hoccer User Account mit beliebigem Usernamen
+2.	Fügen Sie einen Kontakt hinzu
+3.	Tauschen Sie Mitteilungen, Bilder sowie Musik Dateien mit diesem Kontakt aus
+4.	Wechseln Sie zum Fullscreen Music Player und spielen Sie Musik Dateien ab
+5.	Schließen Sie die Hoccer App während der Music Player spielt und navigieren Sie über die Notificationbar wieder zum Fullscreen Music Player
+
+Strukturierte Aufgaben
+
+Annahme: die oben aufgeführten Aufgaben sollten erfolgreich durchgeführt worden sein, da für die nachfolgenden Aufgaben vorausgesetzt wird, dass  z.B. Kontakte hinzugefügt und Musik Files ausgetauscht worden sind.
+
+1.	Music-Player
+  a.	Öffnen Sie die Kontaktliste 
+  b.	Wählen Sie „Musik“ über das Overflow Icon in der Actionbar aus
+  c.	In der aufgeführten Liste sollten alle Musik Dateien aufgeführt werden, die Ihnen gesendet wurden
+  d.	Klicken Sie ein Lied in der Liste an
+  e.	Der Fullscreen Music-Player öffnet sich und das selektierte Lied fängt automatisch an zu spielen
+  f.	Testen Sie die Funktionalität der einzelnen Buttons: Shuffle, Repeat, Forward, Backward, Play, Pause
+2.	Music-Player Notifications
+  a.	Sie befinden sich noch immer im Fullscreen Music-Player
+  b.	Durch 3-maliges Klicken des „Back“-Buttons wird die Hoccer App geschlossen
+  c.	Das Lied sollte immer noch spielen. Zusätzlich erscheint in der Notificationbar ein Musik Icon, welches Informationen über das aktuell spielende Lied zeigt sowie die Option zum Pausieren bereitstellt.
+  d.	Pausieren Sie das Lied über den entsprechenden Button
+  e.	Durch klicken auf die Nachricht gelangen Sie zurück in den Fullscreen Music-Player wo Sie das Lied durch einen Klick auf „Play“ weiterspielen lassen können
+  f.	Verlassen Sie die Hoccer App erneut während ein Lied spielt
+  g.	Beenden Sie den Hoccer Prozess nun komplett 
+    i.	Entweder: Langes drücken der Home Taste mit anschließendem Swipe von links nach rechts über der App
+    ii.	Oder: Navigation zu Einstellungen / Apps / Hoccer  und Klick auf „Beenden erzwingen“
+3.	Music-Player Icon
+  a.	Öffnen Sie die Kontaktliste und wählen einen Kontakt aus von dem Sie mindestens eine Musik Datei erhalten haben
+  b.	Starten Sie ein beliebiges Lied durch Klick auf den „Play“ Button
+  c.	In der Actionbar erscheint ein Music-Player Icon. Durch Klick auf dieses Icon gelangen Sie zum Fullscreen Music-Player
+4.	Music-Player Update
+  a.	Navigieren Sie, wie in Punkt 4. angegeben, zur Liste der empfangenen Musik Dateien
+  b.	Lassen Sie sich von einem Ihrer Kontakte eine Musik Datei schicken
+  c.	Die neu empfangene Datei sollte nach dem Empfang in der Liste erscheinen
+
+Feedback
+
+1.	Empfanden Sie die Navigationsführung als intuitiv und erwartungskonform? Haben Sie Änderungswünsche? 
+2.	Hatten Sie Schwierigkeiten beim Ausführen einer der Aufgaben? Wenn ja, welche? Gibt es Lösungen, die Sie sich wünschen würden?
+3.	Sonstige Anmerkungen und Empfehlungen
