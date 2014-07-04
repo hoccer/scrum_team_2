@@ -1,0 +1,47 @@
+iOS Test
+
+Anmerkungen
+
+Beachten Sie bei allen nachfolgenden Aufgaben die Navigationsführung, um anschließend eine Bewertung abgeben zu können.
+
+Explorative Aufgaben
+
+1.	Erstellen Sie einen Hoccer User Account mit beliebigem Usernamen
+2.	Fügen Sie einen Kontakt hinzu
+3.	Tauschen Sie Musik Dateien mit diesem Kontakt aus
+4.	Wechseln Sie zum Fullscreen Music Player und spielen Sie Musik Dateien ab
+5.	Schließen Sie die Hoccer App während der Music Player spielt und navigieren Sie über das Control Center wieder in die App
+
+Strukturierte Aufgaben
+
+Annahme: die oben aufgeführten Aufgaben sollten erfolgreich durchgeführt worden sein, da für die nachfolgenden Aufgaben vorausgesetzt wird, dass  z.B. Kontakte hinzugefügt und Musik Files ausgetauscht worden sind.
+
+1.	Music-Player
+  a.	Wählen Sie „Medien“ in der TabBar aus
+  b.	In der aufgeführten Liste sollten alle Musik Dateien aufgeführt werden, die Ihnen gesendet wurden
+  c.	Klicken Sie ein Lied in der Liste an
+  d.	Der Fullscreen Music-Player öffnet sich und das selektierte Lied fängt automatisch an zu spielen
+  e.	Testen Sie die Funktionalität der einzelnen Buttons: Shuffle, Repeat, Forward, Backward, Play, Pause
+2.	Music-Player + Control Center
+  a.	Sie befinden sich noch immer im Fullscreen Music-Player
+  b.	Durch drücken des „Home“ Buttons wird die Hoccer App geschlossen
+  c.	Das Lied sollte immer noch spielen.
+  d.	Im Control Center werden Informationen über das aktuell spielende Lied angezeigt sowie weitere Kontrolloptionen bereitgestellt.
+  e.	Pausieren Sie das Lied über den entsprechenden Button
+  f.	Durch klicken auf den Musik Titel gelangen Sie zurück in die Hoccer App. Navigieren Sie erneut in den FullScreen Music Player und lassen das Lied durch einen Klick auf „Play“ weiterspielen 
+  g.	Verlassen Sie die Hoccer App erneut während ein Lied spielt
+  h.	Beenden Sie den Hoccer Prozess nun komplett durch 2maliges Drücken des „Home“ Buttons mit anschließendem Swipe über der App von unten nach oben
+3.	Music-Player Icon
+  a.	Öffnen Sie die Kontaktliste und wählen einen Kontakt aus von dem Sie mindestens eine Musik Datei erhalten haben
+  b.	Starten Sie ein beliebiges Lied durch Klick auf den „Play“ Button
+  c.	In der NavigationBar erscheint ein Music-Player Icon. Durch Klick auf dieses Icon gelangen Sie zum Fullscreen Music-Player
+4.	Music-Player Update
+  a.	Navigieren Sie, wie in Punkt 4. angegeben, zur Liste der empfangenen Musik Dateien
+  b.	Lassen Sie sich von einem Ihrer Kontakte eine Musik Datei schicken
+  c.	Die neu empfangene Datei sollte nach dem Empfang in der Liste erscheinen
+
+Feedback
+
+1.	Empfanden Sie die Navigationsführung als intuitiv und erwartungskonform? Haben Sie Änderungswünsche? 
+2.	Hatten Sie Schwierigkeiten beim Ausführen einer der Aufgaben? Wenn ja, welche? Gibt es Lösungen, die Sie sich wünschen würden?
+3.	Sonstige Anmerkungen und Empfehlungen
